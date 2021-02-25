@@ -1,0 +1,321 @@
+categoria,mes,total
+Adepto,2019-05,2
+Adepto,2019-06,2
+Adepto,2019-07,2
+Adepto,2019-07,1
+Adepto,2019-08,1
+Adepto,2019-09,0
+Adepto,2019-10,0
+Adepto,2019-11,0
+Adepto,2019-12,0
+Adepto,2020-01,0
+Adepto,2020-02,1
+Adepto,2020-03,1
+Adepto,2020-04,1
+Adepto,2020-05,1
+Adepto,2020-06,1
+Adepto,2020-07,1
+Adepto,2020-08,1
+Adepto,2020-09,1
+Adepto,2020-10,1
+Adepto,2020-11,1
+Adepto,2021-01,0
+Aspirante,2019-05,34
+Aspirante,2019-06,37
+Aspirante,2019-07,50
+Aspirante,2019-08,35
+Aspirante,2019-09,50
+Aspirante,2019-10,57
+Aspirante,2019-11,62
+Aspirante,2019-12,59
+Aspirante,2020-01,54
+Aspirante,2020-02,56
+Aspirante,2020-03,52
+Aspirante,2020-04,46
+Aspirante,2020-05,48
+Aspirante,2020-06,30
+Aspirante,2020-07,31
+Aspirante,2020-09,39
+Aspirante,2020-10,39
+Aspirante,2020-11,38
+Aspirante,2021-01,27
+Atleta,2019-05,4
+Atleta,2019-06,4
+Atleta,2019-07,4
+Atleta,2019-08,4
+Atleta,2019-09,4
+Atleta,2019-10,4
+Atleta,2019-11,4
+Atleta,2019-12,4
+Atleta,2020-01,4
+Atleta,2020-02,4
+Atleta,2020-03,4
+Atleta,2020-04,4
+Atleta,2020-05,4
+Atleta,2020-06,3
+Atleta,2020-07,3
+Atleta,2020-08,3
+Atleta,2020-09,3
+Atleta,2020-10,3
+Atleta,2020-11,3
+Atleta,2021-01,3
+Benemérito,2019-05,61
+Benemérito,2019-06,66
+Benemérito,2019-07,66
+Benemérito,2019-08,66
+Benemérito,2019-09,66
+Benemérito,2019-10,66
+Benemérito,2019-11,66
+Benemérito,2019-12,66
+Benemérito,2020-01,66
+Benemérito,2020-02,72
+Benemérito,2020-03,72
+Benemérito,2020-04,71
+Benemérito,2020-05,71
+Benemérito,2020-06,71
+Benemérito,2020-07,71
+Benemérito,2020-08,71
+Benemérito,2020-09,73
+Benemérito,2020-10,73
+Benemérito,2020-11,73
+Benemérito,2021-01,73
+Benfeitor Remido,2019-05,328
+Benfeitor Remido,2019-06,340
+Benfeitor Remido,2019-07,367
+Benfeitor Remido,2019-08,380
+Benfeitor Remido,2019-09,415
+Benfeitor Remido,2019-10,436
+Benfeitor Remido,2019-11,444
+Benfeitor Remido,2019-12,466
+Benfeitor Remido,2020-01,480
+Benfeitor Remido,2020-02,485
+Benfeitor Remido,2020-03,487
+Benfeitor Remido,2020-04,488
+Benfeitor Remido,2020-05,489
+Benfeitor Remido,2020-06,2202
+Benfeitor Remido,2020-07,2452
+Benfeitor Remido,2020-08,2436
+Benfeitor Remido,2020-09,2446
+Benfeitor Remido,2020-10,2445
+Benfeitor Remido,2020-11,2003
+Benfeitor Remido,2021-01,2410
+Campeão,2019-05,25
+Campeão,2019-06,25
+Campeão,2019-07,25
+Campeão,2019-08,25
+Campeão,2019-09,25
+Campeão,2019-10,24
+Campeão,2019-11,25
+Campeão,2019-12,26
+Campeão,2020-01,11
+Campeão,2020-02,12
+Campeão,2020-03,12
+Campeão,2020-04,12
+Campeão,2020-05,12
+Campeão,2020-06,27
+Campeão,2020-07,45
+Campeão,2020-08,535
+Campeão,2020-09,536
+Campeão,2020-10,538
+Campeão,2020-11,539
+Campeão,2021-01,537
+Dependente,2019-05,521
+Dependente,2019-06,520
+Dependente,2019-07,574
+Dependente,2019-08,558
+Dependente,2019-09,614
+Dependente,2019-10,602
+Dependente,2019-11,642
+Dependente,2019-12,694
+Dependente,2020-01,568
+Dependente,2020-02,563
+Dependente,2020-03,565
+Dependente,2020-04,501
+Dependente,2020-05,513
+Dependente,2020-06,366
+Dependente,2020-07,358
+Dependente,2020-08,371
+Dependente,2020-09,383
+Dependente,2020-10,388
+Dependente,2020-11,376
+Dependente,2021-01,335
+Emerito,2019-05,84
+Emerito,2019-06,92
+Emerito,2019-07,92
+Emerito,2019-08,92
+Emerito,2019-09,92
+Emerito,2019-10,92
+Emerito,2019-11,92
+Emerito,2019-12,92
+Emerito,2020-01,91
+Emerito,2020-02,90
+Emerito,2020-03,90
+Emerito,2020-04,91
+Emerito,2020-05,91
+Emerito,2020-06,91
+Emerito,2020-07,91
+Emerito,2020-08,91
+Emerito,2020-09,91
+Emerito,2020-10,90
+Emerito,2020-11,90
+Emerito,2021-01,90
+Geral,2019-05,1372
+Geral,2019-06,1400
+Geral,2019-07,1465
+Geral,2019-08,1420
+Geral,2019-09,1786
+Geral,2019-10,2137
+Geral,2019-11,2259
+Geral,2019-12,2039
+Geral,2020-01,1939
+Geral,2020-02,2056
+Geral,2020-03,2013
+Geral,2020-04,1934
+Geral,2020-05,2051
+Geral,2020-06,1771
+Geral,2020-07,1834
+Geral,2020-08,2006
+Geral,2020-09,2085
+Geral,2020-10,2071
+Geral,2020-11,1983
+Geral,2021-01,1766
+Grande Benemérito,2019-05,88
+Grande Benemérito,2019-06,90
+Grande Benemérito,2019-07,90
+Grande Benemérito,2019-08,90
+Grande Benemérito,2019-09,90
+Grande Benemérito,2019-10,89
+Grande Benemérito,2019-11,89
+Grande Benemérito,2019-12,89
+Grande Benemérito,2020-01,89
+Grande Benemérito,2020-02,89
+Grande Benemérito,2020-03,89
+Grande Benemérito,2020-04,89
+Grande Benemérito,2020-05,89
+Grande Benemérito,2020-06,89
+Grande Benemérito,2020-07,89
+Grande Benemérito,2020-08,89
+Grande Benemérito,2020-09,89
+Grande Benemérito,2020-10,89
+Grande Benemérito,2020-11,89
+Grande Benemérito,2021-01,89
+Honorário,2019-05,0
+Honorário,2019-06,0
+Honorário,2019-07,0
+Honorário,2019-08,0
+Honorário,2019-09,0
+Honorário,2019-10,0
+Honorário,2019-11,0
+Honorário,2019-12,0
+Honorário,2020-01,0
+Honorário,2020-02,0
+Honorário,2020-03,0
+Honorário,2020-04,0
+Honorário,2020-05,0
+Honorário,2020-06,0
+Honorário,2020-07,4
+Honorário,2020-08,4
+Honorário,2020-09,4
+Honorário,2020-10,4
+Honorário,2020-11,4
+Honorário,2021-01,4
+Patrimonial,2019-05,169
+Patrimonial,2019-06,181
+Patrimonial,2019-07,189
+Patrimonial,2019-08,200
+Patrimonial,2019-09,207
+Patrimonial,2019-10,204
+Patrimonial,2019-11,206
+Patrimonial,2019-12,200
+Patrimonial,2020-01,187
+Patrimonial,2020-02,182
+Patrimonial,2020-03,180
+Patrimonial,2020-04,177
+Patrimonial,2020-05,184
+Patrimonial,2020-06,184
+Patrimonial,2020-07,189
+Patrimonial,2020-08,194
+Patrimonial,2020-09,200
+Patrimonial,2020-10,205
+Patrimonial,2020-11,667
+Patrimonial,2021-01,169
+Proprietário Bronze,2019-05,393
+Proprietário Bronze,2019-06,417
+Proprietário Bronze,2019-07,423
+Proprietário Bronze,2019-08,432
+Proprietário Bronze,2019-09,447
+Proprietário Bronze,2019-10,455
+Proprietário Bronze,2019-11,445
+Proprietário Bronze,2019-12,427
+Proprietário Bronze,2020-01,375
+Proprietário Bronze,2020-02,388
+Proprietário Bronze,2020-03,390
+Proprietário Bronze,2020-04,358
+Proprietário Bronze,2020-05,382
+Proprietário Bronze,2020-06,410
+Proprietário Bronze,2020-07,404
+Proprietário Bronze,2020-08,434
+Proprietário Bronze,2020-09,466
+Proprietário Bronze,2020-10,465
+Proprietário Bronze,2020-11,882
+Proprietário Bronze,2021-01,384
+Proprietário Diamante,2019-05,1287
+Proprietário Diamante,2019-06,1330
+Proprietário Diamante,2019-07,1392
+Proprietário Diamante,2019-08,1418
+Proprietário Diamante,2019-09,1526
+Proprietário Diamante,2019-10,1529
+Proprietário Diamante,2019-11,1541
+Proprietário Diamante,2019-12,1485
+Proprietário Diamante,2020-01,1342
+Proprietário Diamante,2020-02,1411
+Proprietário Diamante,2020-03,1393
+Proprietário Diamante,2020-04,1351
+Proprietário Diamante,2020-05,1403
+Proprietário Diamante,2020-06,1413
+Proprietário Diamante,2020-07,1433
+Proprietário Diamante,2020-08,1543
+Proprietário Diamante,2020-09,1593
+Proprietário Diamante,2020-10,1600
+Proprietário Diamante,2020-11,1618
+Proprietário Diamante,2021-01,1338
+Proprietário Ouro,2019-05,51
+Proprietário Ouro,2019-06,52
+Proprietário Ouro,2019-07,56
+Proprietário Ouro,2019-08,55
+Proprietário Ouro,2019-09,54
+Proprietário Ouro,2019-10,54
+Proprietário Ouro,2019-11,51
+Proprietário Ouro,2019-12,47
+Proprietário Ouro,2020-01,41
+Proprietário Ouro,2020-02,45
+Proprietário Ouro,2020-03,43
+Proprietário Ouro,2020-04,41
+Proprietário Ouro,2020-05,44
+Proprietário Ouro,2020-06,48
+Proprietário Ouro,2020-07,48
+Proprietário Ouro,2020-08,52
+Proprietário Ouro,2020-09,54
+Proprietário Ouro,2020-10,51
+Proprietário Ouro,2020-11,105
+Proprietário Ouro,2021-01,41
+Remido,2019-05,331
+Remido,2019-06,340
+Remido,2019-07,359
+Remido,2019-08,381
+Remido,2019-09,404
+Remido,2019-10,421
+Remido,2019-11,428
+Remido,2019-12,447
+Remido,2020-01,453
+Remido,2020-02,450
+Remido,2020-03,456
+Remido,2020-04,453
+Remido,2020-05,454
+Remido,2020-06,2172
+Remido,2020-07,5186
+Remido,2020-08,5184
+Remido,2020-09,5184
+Remido,2020-10,5182
+Remido,2020-11,4589
+Remido,2021-01,5156
